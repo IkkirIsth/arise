@@ -1,4 +1,4 @@
 User-agent: * 
-Disallow: https://ari.se.net/config/*
+Disallow: https://arise-4t5.pages.dev/config/*
 
-Sitemap: https://ari.se.net/sitemap.xml
+Sitemap: https://arise-4t5.pages.dev/sitemap.xml
