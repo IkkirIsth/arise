@@ -1,4 +1,4 @@
 User-agent: * 
-Disallow: https://ari.se.net/config/*
+Disallow: https://www.starwatergames.com/config/*
 
-Sitemap: https://ari.se.net/sitemap.xml
+Sitemap: https://www.starwatergames.com/sitemap.xml
