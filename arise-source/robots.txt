@@ -1,4 +1,4 @@
 User-agent: * 
-Disallow: https://www.starwatergames.com/config/*
+Disallow: https://arise-4t5.pages.dev/config/*
 
-Sitemap: https://www.starwatergames.com/sitemap.xml
+Sitemap: https://arise-4t5.pages.dev/sitemap.xml
